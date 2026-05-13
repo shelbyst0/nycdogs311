@@ -2,7 +2,7 @@ version: 2
 
 sources:
   - name: group5_raw
-    database: dogs311
+    database: shelbyt
     schema: nyc_group5_raw_data
     tables:
       - name: source_311nyc_service_requests
