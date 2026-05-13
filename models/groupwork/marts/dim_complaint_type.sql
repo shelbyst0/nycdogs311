@@ -1,3 +1,4 @@
+WITH complaint_types AS (
 -- Complaint Type dimension (Sourced only from 311 data)
 WITH complaint_data AS (
     SELECT DISTINCT
